@@ -9,6 +9,7 @@ The goal of this project is to build a strong foundation in data handling, analy
 ### 🐍 Python Foundations
 ### 🔢 NumPy (Numerical Computing)
 ### 📊 Pandas(Data Manipulation)
+### Matplotlib(Data Visualization)
 
 ## 🛠️ Tools & Technologies
 - Python 🐍
