@@ -12,5 +12,6 @@ Today I learned and practiced:
   - Incorrect data types
   - Outliers and anomalies
   - Formatting issues
+  - 
 -Tidy data Properties
 These concepts helped me understand the challenges involved in working with real-world datasets and the importance of data cleaning before analysis.
