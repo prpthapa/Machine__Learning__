@@ -1,7 +1,5 @@
 ## Day 34 - Introduction to Machine Learning
 
-Today I learned and practiced:
-
 - Introduction to Machine Learning
 - Understanding what Machine Learning is
 - Types of Machine Learning:
