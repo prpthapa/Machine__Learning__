@@ -1,4 +1,4 @@
-Day 36 — Student Placement Prediction with Logistic Regression
+# Day 36 — Student Placement Prediction with Logistic Regression
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green) ![Day](https://img.shields.io/badge/Day-36%2F100-orange)
 
