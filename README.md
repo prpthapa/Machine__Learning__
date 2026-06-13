@@ -10,6 +10,7 @@ The goal of this project is to build a strong foundation in data handling, analy
 ###  NumPy (Numerical Computing)
 ###  Pandas(Data Manipulation)
 ###  Matplotlib(Data Visualization)
+###  Seaborn (Data Visualization)
 
 ## 🛠️ Tools & Technologies
 - Python 🐍
@@ -26,7 +27,6 @@ I have completed Python fundamentals and started working with **data science lib
 
 ## 📌 Future Learning Path
 - Exploratory Data Analysis (EDA)
-- Data visualization (Matplotlib, Seaborn)
 - Feature engineering
 - Machine Learning algorithms
 - Model training and evaluation
