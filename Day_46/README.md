@@ -12,8 +12,7 @@ Today I learned about **Ordinal Data** and how to convert it into numerical form
 
 - **Ordinal Data** is a type of categorical data where the categories have a meaningful order or ranking.
   - Examples:
-    - Low < Medium < High
-    - Poor < Average < Good < Excellent
+    - Poor < Average < Good  
 
 - **Label Encoding** assigns numerical values to categories, but it does not always preserve the correct order for machine learning models.
 
@@ -24,9 +23,9 @@ Today I learned about **Ordinal Data** and how to convert it into numerical form
 Education Level:
 
 - High School → 0
-- Bachelor's → 1
-- Master's → 2
-- PhD → 3
+- UG → 1
+- PG → 2
+
 
 This preserves the order of the categories and allows machine learning algorithms to understand the ranking.
 
