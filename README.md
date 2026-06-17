@@ -17,6 +17,7 @@ The goal of this project is to build a strong foundation in data handling, analy
 - NumPy 🔢
 - Pandas 📊
 - Jupyter Notebook 📓
+- VS Code
 
 ## 🎯 Current Focus
 I have completed Python fundamentals and started working with **data science libraries**, focusing on:
