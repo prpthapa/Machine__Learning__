@@ -25,10 +25,11 @@ I have completed Python fundamentals and started working with **data science lib
 - Data analysis
 - Data cleaning
 - Real-world dataset handling
-
-## 📌 Future Learning Path
 - Exploratory Data Analysis (EDA)
 - Feature engineering
+
+## 📌 Future Learning Path
+
 - Machine Learning algorithms
 - Model training and evaluation
 
