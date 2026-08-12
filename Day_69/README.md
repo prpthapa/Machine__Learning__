@@ -1,23 +1,36 @@
-🚀 #Day68 of #Learning
+## Day 69 - PCA: Practical Understanding with MNIST
 
-Today I learned about Principal Component Analysis (PCA), one of the most important techniques for dealing with high-dimensional data in Machine Learning.
+Today I went deeper into Principal Component Analysis (PCA) by understanding the mathematical intuition behind PCA and applying it to the MNIST dataset.
 
-🔹 Understood why PCA is useful for handling the Curse of Dimensionality.
+### Topics Covered
 
-🔹 Learned how PCA transforms the original features into new features called Principal Components.
+- Practical Example using the MNIST Dataset
+- Problem Formulation
+- Covariance and Covariance Matrix
+- Eigenvectors and Eigenvalues
+- Visualizing Linear Transformations
+- Eigendecomposition of a Covariance Matrix
+- How to Solve PCA
+- Transforming Points using PCA
 
-🔹 Understood that the first principal component captures the maximum variance in the data, while the following components capture the remaining variance.
+### Key Concepts Learned
 
-🔹 Learned how PCA can reduce the number of features while preserving most of the important information.
+- How PCA can be used to reduce the dimensionality of a high-dimensional dataset such as MNIST.
+- How the covariance matrix represents the relationships between different features.
+- How eigenvectors represent the principal directions of the data.
+- How eigenvalues indicate the amount of variance captured along each principal direction.
+- How eigendecomposition of the covariance matrix helps identify the principal components.
+- How data points are transformed into a new coordinate system using the principal components.
+- How PCA can be understood geometrically through linear transformations.
 
-🔹 Explored why standardization is an important step before applying PCA.
+### Practical Learning
 
-🔹 Understood how PCA can also be used to visualize high-dimensional datasets in lower dimensions.
+The MNIST dataset was used as a practical example to understand why dimensionality reduction is useful when dealing with a large number of features.
 
-💡 Key Takeaway:
+I also worked through the mathematical process of PCA instead of treating it only as a Scikit-learn function.
 
-PCA is not simply about removing features. It transforms the original features into a smaller set of informative components while trying to preserve the important patterns in the data. This makes it useful for dimensionality reduction, visualization, and reducing computational complexity.
+### Key Takeaway
 
-Another important concept completed in my Machine Learning and Feature Engineering journey! 📊🤖🚀
+PCA became much clearer after understanding its mathematical foundation. Instead of simply using PCA as a dimensionality reduction function, I learned how covariance, eigenvectors, eigenvalues, eigendecomposition, and coordinate transformation work together to find the principal components.
 
-#MachineLearning #PCA #PrincipalComponentAnalysis #DimensionalityReduction #FeatureEngineering #DataScience #Python #ScikitLearn #LearningJourney #100DaysOfCode
+This helped connect the mathematical concepts of linear algebra with their practical application in Machine Learning.
