@@ -1,4 +1,4 @@
-## Day 72 - Simple Linear Regression
+## Day 73 - Simple Linear Regression
 
 Today I focused on understanding the mathematical foundation behind how the model makes predictions.
 
