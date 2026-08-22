@@ -1,11 +1,9 @@
 ## Day 72 - Simple Linear Regression
 
-Today I learned about Simple Linear Regression and focused on understanding the mathematical foundation behind how the model makes predictions.
+Today I focused on understanding the mathematical foundation behind how the model makes predictions.
 
 ### Topics Covered
 
-- Introduction to Linear Regression
-- Simple Linear Regression
 - Mathematical intuition behind Linear Regression
 - Equation of a regression line
 - Slope and intercept
