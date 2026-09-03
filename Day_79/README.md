@@ -1,4 +1,4 @@
-## Day 78 - Gradient Descent
+## Day 79 - Gradient Descent
 
 Today I learned about Gradient Descent and focused on understanding the mathematics behind how it works as an optimization algorithm.
 
